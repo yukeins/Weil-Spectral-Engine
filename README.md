@@ -129,7 +129,7 @@ To replicate all results from scratch on a Linux x86_64 system:
 
 #### Step 1: Clone the Repository
 ```bash
-git clone git@github.com:Santiago5Q/Weil-Spectral-Engine.git
+git clone https://github.com/yukeins/Weil-Spectral-Engine.git
 cd Weil-Spectral-Engine
 ```
 
@@ -172,7 +172,7 @@ Output artifacts generated:
   author       = {R. Santiago Z. G.},
   title        = {Weil Spectral Engine: High-Precision Multiscale Spectral Certification Suite},
   year         = {2026},
-  url          = {https://github.com/Santiago5Q/Weil-Spectral-Engine},
+  url          = {https://github.com/yukeins/Weil-Spectral-Engine},
   note         = {Parallel numerical certification for operator self-adjointness and Gram coercivity}
 }
 ```

@@ -60,7 +60,7 @@ export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH
 ## 3. Cloning and Repository Structure
 
 ```bash
-git clone https://github.com/RiemannWeil/Weil-Spectral-Engine.git
+git clone https://github.com/yukeins/Weil-Spectral-Engine.git
 cd Weil-Spectral-Engine
 ```
 
