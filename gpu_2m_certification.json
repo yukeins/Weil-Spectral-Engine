@@ -1,0 +1,16 @@
+{
+  "suite": "Weil-Spectral-Engine-GPU-CUDA-2M",
+  "device": "NVIDIA GeForce RTX 2050 (4096 MB VRAM)",
+  "author": "R. Santiago Z. G., Independent Researcher",
+  "zeros_evaluated": 2000000,
+  "primes_evaluated": 1000,
+  "window_w": 200,
+  "diagonal_trace_G_jj": 6.0086747852e0,
+  "mean_off_diagonal_radius": 2.8769730773e2,
+  "max_off_diagonal_radius": 2.9903674901e2,
+  "min_coercive_margin": -2.9302807422e2,
+  "gpu_time_seconds": 308.7594,
+  "zeros_per_second": 6477.54,
+  "vram_allocated_mb": 30.53,
+  "status": "CERTIFIED_STABLE_CONFINEMENT"
+}
